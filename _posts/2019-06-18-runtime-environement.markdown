@@ -3,7 +3,7 @@ layout: post
 color: purple
 cover: "http://s3-ap-southeast-1.amazonaws.com/monster-machine/images/horssghonr-1436272011-Midas.jpg"
 title:  "Android Runtime Environment!"
-date:   2019-06-14 13:50:39
+date:   2019-06-18 13:50:39
 categories: android basic knowledge
 ---
 <h1 dir="rtl" align="right">

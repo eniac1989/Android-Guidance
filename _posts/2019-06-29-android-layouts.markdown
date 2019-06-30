@@ -264,7 +264,7 @@ Android Layout  گروهی از view هاست که به صورت عمودی و �
 </table>
 
 در این layout می بایست کنترل مناسبی برروی width و height درزمان طراحی داشته باشیم.
-<div align="ltr" >
+<div dir="ltr" align ="left">
 1. Layout_width:”fill_parent”
 
 2. Layout_width:”match_parent”
